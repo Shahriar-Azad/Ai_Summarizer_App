@@ -1,4 +1,6 @@
 Live link: https://ai-summarizer-shahriar-azad.vercel.app/
 
 
-This is an AI Summarizer tool which is going to help you to get the summarise any of your topic which you are going to summarize through just URL
+AI-Powered Summarizer is a AI tool which helps to summarize anything through Urls. Get your summary of any topic by copy pasting the url to the input. This generates a complete summary of the topic.
+Tech Stack Used:
+React.js, Tailwindcss, RapidApi Ai Api
